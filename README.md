@@ -1,9 +1,9 @@
 # Karmabot 
 
-** This is an early idea. It doesn't work yet**
+**This is an early idea. It doesn't work yet**
 
 This is your personal Reddit robot. He's a cool dude. His big brother is 
-[karmabot](http://karmabot.kyleconroy.com/), who is also cool.
+[Hubot](http://hubot.github.com/), who is also cool.
 
 **You'll probably never have to hack on this repo directly.**
 
